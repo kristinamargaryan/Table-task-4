@@ -12,21 +12,21 @@
       <table class="w-full">
         <thead class="bg-gray-50 border-b-2 border-gray-200">
           <tr>
+            <th class="w-20 p-3 text-sm font-semibold tracking-wide text-left">
+              Name
+            </th>
+            <th class="w-20 text-sm font-semibold tracking-wide text-left">
+              Website
+            </th>
+            <th class="w-20 p-3 text-sm font-semibold tracking-wide text-left">
+              Phone
+            </th>
+            <th class="w-20 p-3 text-sm font-semibold tracking-wide text-left">
+              Email
+            </th>
             <th
               class="w-20 p-3 text-sm font-semibold tracking-wide text-left"
             ></th>
-            <th class="p-3 text-sm font-semibold tracking-wide text-left">
-              Name
-            </th>
-            <th class="w-24 p-3 text-sm font-semibold tracking-wide text-left">
-              Website
-            </th>
-            <th class="w-24 p-3 text-sm font-semibold tracking-wide text-left">
-              Phone
-            </th>
-            <th class="w-24 p-3 text-sm font-semibold tracking-wide text-left">
-              Email
-            </th>
           </tr>
         </thead>
         <tbody class="divide-y divide-gray-100">
