@@ -130,5 +130,6 @@ export default {
 <style lang="scss" scoped>
 .my-form {
   margin: 10px;
+  padding: 10px;
 }
 </style>
